@@ -1,0 +1,4 @@
+Variant: portable-codex-cli-4-accounts-public-github-NDKBVH
+Auth/session files have been removed from every account profile.
+Only placeholder state folders are shipped in the public package; runtime files are created on first launch.
+This package is intended for redistribution and first-time login on the target machine.

@@ -1,0 +1,13 @@
+dist/
+
+state/account-1/*
+!state/account-1/.gitkeep
+
+state/account-2/*
+!state/account-2/.gitkeep
+
+state/account-3/*
+!state/account-3/.gitkeep
+
+state/account-4/*
+!state/account-4/.gitkeep

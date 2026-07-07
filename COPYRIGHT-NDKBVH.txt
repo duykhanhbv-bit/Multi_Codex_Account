@@ -1,0 +1,8 @@
+Portable Codex CLI Bundle for 4 Accounts
+Copyright (c) NDKBVH
+
+Package variants:
+- Private auth bundle: for NDKBVH's own trusted machines only. It may contain active auth/session files.
+- Public no-auth bundle: safe to share without bundled auth/session files.
+
+Use at your own risk. No warranty is provided.
